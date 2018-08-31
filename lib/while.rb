@@ -1,6 +1,6 @@
 def using_while
 	levitation_force = 6
-	while 
+	while
 		levitation_force < 10
 		puts "hello #{levitation_force}"
 		levitation_force +=1
@@ -8,5 +8,3 @@ def using_while
 end
 
 puts "hello #{levitation_force}"
-
-
